@@ -201,7 +201,4 @@ assistente não misturem comandos ao Arduino.
 |---|---|
 | Gabriel Gomes Catanzaro | RM93445 |
 | Lucas Gomes Alcântara | RM98766 |
-| Filipe Prado Menezes | RM98765 |
 | Henrique Canali Cuzato | RM551326 |
-| Cassio Eid Kobayashi Yonetsuka | RM99678 |
-| Pedro Henrique Salvitti Habiro | RM88166 |
