@@ -192,8 +192,7 @@ assistente não misturem comandos ao Arduino.
 
 ## Documentação
 
-- [Manual completo: instalação, montagem, comandos e solução de problemas](docs/manual.md)
-- [Publicação no GitHub: Git ou upload pelo navegador](docs/publicacao.md)
+- Link do videos: https://youtu.be/G1vr4n0TVbk?si=Kd7LvmzR6Ie469KA
 
 ## Integrantes
 
